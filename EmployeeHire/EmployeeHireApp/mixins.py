@@ -1,0 +1,2 @@
+class SerializeMixin(object):
+    def
